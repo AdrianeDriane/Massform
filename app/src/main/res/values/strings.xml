@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Massform</string>
+
+    <string name="welcome_message">Welcome!</string>
+    <string name="login_message">Please log in to your account</string>
+    <string name="login_button_message">Login</string>
+    <string name="no_account_message">Do not have an account?</string>
+    <string name="register_here_message">Register here.</string>
+    <string name="forgot_username_or_password_message">Forgot Username or Password?</string>
+
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="password_empty_error">Enter password.</string>
+    <string name="username_empty_error">Enter username.</string>
+    <string name="invalid_login_toast">Invalid username or password.</string>
+    <string name="username_length_error">Username should have 4-16 characters.</string>
+    <string name="password_length_error">Password should have 8-32 characters.</string>
+    <string name="successful_login_toast">Successful login!</string>
+
+    <string name="workout_a_option_textview">Workout A (Upper Body)</string>
+    <string name="workout_b_option_textview">Workout B (Lower Body)</string>
+    <string name="weight_converter_option_textview">Weight Converter</string>
+    <string name="weight_converter_string_button">Convert!</string>
+    <string name="workout_string_button">Train!</string>
+
+    <!--Workout name and reps (Upper Body Day)-->
+    <string name="upper1">Bench Press (4x8)</string>
+    <string name="upper2">Inclined Bench Press (3x8)</string>
+    <string name="upper3">Dumbell Shoulder Press (4x10)</string>
+    <string name="upper4">Pull Ups (4x10)</string>
+    <string name="upper5">Barbell Rows (3x8)</string>
+    <string name="upper6">Lateral Raises (4x12)</string>
+    <string name="upper7">Rear Delt Rope (4x12)</string>
+
+    <!--Workout muscles target (Upper Body Day)-->
+    <string name="upper1target">Targets: Entire Pecs</string>
+    <string name="upper2target">Targets: Upper Pecs</string>
+    <string name="upper3target">Targets: Front/Side Delts</string>
+    <string name="upper4target">Targets: Entire Back</string>
+    <string name="upper5target">Targets: Lats</string>
+    <string name="upper6target">Targets: Side Delts</string>
+    <string name="upper7target">Targets: Rear Delts</string>
+
+    <!--Workout name and reps (Lower Body Day)-->
+    <string name="lower1">Barbell Squats (4x6)</string>
+    <string name="lower2">Deadlifts (4x6)</string>
+    <string name="lower3">Bulgarian Split Squats (3x8)</string>
+    <string name="lower4">Leg Extensions (3x12)</string>
+    <string name="lower5">Leg Curls (3x12)</string>
+    <string name="lower6">Core Exercise (varies)</string>
+
+    <!--Workout muscles target (Lower Body Day)-->
+    <string name="lower1target">Targets: Entire Legs</string>
+    <string name="lower2target">Targets: Hamstrings/Glutes</string>
+    <string name="lower3target">Targets: Entire Legs</string>
+    <string name="lower4target">Targets: Quads</string>
+    <string name="lower5target">Targets: Hamstrings</string>
+    <string name="lower6target">Targets: Abdominal Muscles</string>
+
+    <string name="weight_hint">Weight</string>
+    <string name="to_text">to</string>
+    <string name="convert_text">Convert</string>
+    <string name="empty_input">Empty input.</string>
+
+    <string name="kg_unit">%s kg</string>
+    <string name="lbs_unit">%s lbs</string>
+    <string name="lbs_to_kg_conversion">lbs to kg</string>
+    <string name="kg_to_lbs_conversion">kg to lbs</string>
+</resources>
